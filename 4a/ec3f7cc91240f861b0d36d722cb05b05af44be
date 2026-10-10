@@ -1,0 +1,27 @@
+workflow/README.md
+  s_a5cd6d5d346382::t_993c15a272b801 1-113
+workflow/1-audit-prompt.md
+  s_a5cd6d5d346382::t_23d42454d12162 1-70
+workflow/3-build-prompt.md
+  s_a5cd6d5d346382::t_831d044d15a076 1-99
+workflow/2-redesign-doc-template.md
+  s_a5cd6d5d346382::t_ba8b59ca099bea 1-110
+README.md
+  s_a5cd6d5d346382::t_46725be888aa69 26-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4aec3f7cc91240f861b0d36d722cb05b05af44be",
+  "prompts": {},
+  "sessions": {
+    "s_a5cd6d5d346382": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63469e16-95f3-481e-a2f2-1772b95cd918",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "graceyan212 <64806792+graceyan212@users.noreply.github.com>"
+    }
+  }
+}
