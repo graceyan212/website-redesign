@@ -23,3 +23,11 @@ A neighborhood coffee shop and bakery in Morgantown, West Virginia.
 
 ### [Morgantown Running](https://morgantown-running.vercel.app/)
 A running shoe store in Morgantown, West Virginia, with free gait analysis.
+
+---
+
+### How these get made
+
+The reproducible loop behind every redesign above — audit a real business, draft
+a redesign doc, hand it to a coding agent to build — is written up in
+[`workflow/`](./workflow/README.md). Tool-agnostic; copy-paste prompts included.
