@@ -9,6 +9,10 @@ are previews, not the businesses' live sites.
 
 ---
 
+### [Wu's House](https://wus-house-preview.vercel.app/)
+A Japanese hibachi and sushi restaurant group across Chicagoland and northwest Indiana.
+Homepage source: [wus-house](wus-house/).
+
 ### [Tuscan Ridge](https://tuscan-ridge.vercel.app/)
 A hilltop wedding and event venue outside Morgantown, West Virginia.
 
