@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="256" viewBox="0 0 192 256" fill="none">
+  <defs>
+    <pattern id="grain" width="9" height="128" patternUnits="userSpaceOnUse">
+      <path d="M2 0v128M6 0v128" stroke="#B18654" stroke-opacity=".12"/>
+    </pattern>
+    <path id="joinery" d="M0 0h192M0 128h192M0 256h192M0 0v256M96 0v256M192 0v256M0 32h64v64H32V64H0m96-32h64v64h-32V64h-32M0 160h32v64h32v-32h32m0-32h32v64h32v-32h32"/>
+    <mask id="timber"><use href="#joinery" stroke="white" stroke-width="12"/></mask>
+  </defs>
+  <path fill="#19120D" d="M0 0h192v256H0z"/>
+  <use href="#joinery" transform="translate(5 5)" stroke="#0E0B08" stroke-width="14"/>
+  <use href="#joinery" stroke="#4B3022" stroke-width="12"/>
+  <use href="#joinery" transform="translate(-2 -2)" stroke="#916C45" stroke-width="7"/>
+  <use href="#joinery" transform="translate(-4 -4)" stroke="#B28A58" stroke-opacity=".55" stroke-width="1"/>
+  <path fill="url(#grain)" mask="url(#timber)" d="M0 0h192v256H0z"/>
+</svg>

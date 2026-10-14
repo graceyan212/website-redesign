@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="48" viewBox="0 0 192 48" fill="none">
+  <!-- Stepped joinery drawn from the restaurant's wooden screen. -->
+  <path fill="#2C1C14" d="M0 0h192v48H0z"/>
+  <g stroke="#916C45" stroke-width="3" stroke-linejoin="miter">
+    <path d="M0 2h192M0 46h192M0 24h24V2m0 22h24v22m0-22V10h20v22H56m40-30v44m0-22H80V2m16 22h24V2m0 22h24v22m0-22V10h20v22h-12m40-30v44m0-22h-16V2"/>
+    <path d="M8 46V34h24v12m72 0V34h24v12"/>
+  </g>
+</svg>

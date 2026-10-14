@@ -13,6 +13,10 @@ are previews, not the businesses' live sites.
 A Japanese hibachi and sushi restaurant group across Chicagoland and northwest Indiana.
 Homepage source: [wus-house](wus-house/).
 
+### [Wu's Korean BBQ](https://wus-korean-bbq-editorial.vercel.app/)
+A Korean barbecue restaurant in Chicago's Streeterville neighborhood.
+Homepage and menu source: [wus-korean-bbq-editorial](wus-korean-bbq-editorial/).
+
 ### [Tuscan Ridge](https://tuscan-ridge.vercel.app/)
 A hilltop wedding and event venue outside Morgantown, West Virginia.
 

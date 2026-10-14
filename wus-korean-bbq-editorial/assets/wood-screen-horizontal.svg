@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="128" viewBox="0 0 1600 128" fill="none">
+  <defs>
+    <!-- One continuous composition, with deliberately unequal bays and staggered joints. -->
+    <path id="joinery" d="
+      M0 6H1600M0 122H1600
+      M0 42H112V6M46 42V122M46 84H164V122
+      M112 42H206V94H256V122M206 6V42H344V122M256 94H300V62H344
+      M344 82H426V6M426 38H518V122M518 92H582V56H664V6
+      M582 6V24M664 56H726V122M726 94H836V6
+      M726 32H782V66H836M836 44H958V122M884 44V88H922
+      M958 80H1040V6M1040 30H1156V76H1218V122
+      M1090 122V76H1156M1156 6V30H1308V122M1218 76H1262V46H1308
+      M1308 96H1392V6M1392 50H1486V122M1436 50V88H1486
+      M1486 28H1554V6M1554 28V84H1600M1540 122V106H1600"/>
+    <mask id="timber"><use href="#joinery" stroke="white" stroke-width="10"/></mask>
+  </defs>
+  <path fill="#19120D" d="M0 0h1600v128H0z"/>
+  <use href="#joinery" transform="translate(4 5)" stroke="#0E0B08" stroke-width="14"/>
+  <use href="#joinery" stroke="#4B3022" stroke-width="10"/>
+  <use href="#joinery" transform="translate(-1 -2)" stroke="#916C45" stroke-width="6"/>
+  <use href="#joinery" transform="translate(-3 -4)" stroke="#B28A58" stroke-opacity=".55" stroke-width="1"/>
+  <g mask="url(#timber)" stroke="#C39A68" stroke-opacity=".14" stroke-width=".7">
+    <path d="M0 4C380 7 660 1 990 4S1400 8 1600 4M0 120C420 117 760 124 1100 120S1400 119 1600 120M0 40H360M340 80H1080M420 36H900M1040 28H1600"/>
+  </g>
+</svg>
